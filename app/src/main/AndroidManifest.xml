@@ -4,7 +4,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="ОПИТУ.Л1 - Калькулятор"
+        android:label="ОИТиПУ.Л1 - Калькулятор"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">

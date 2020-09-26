@@ -40,7 +40,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -53,7 +53,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -66,7 +66,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -79,7 +79,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -97,7 +97,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -110,7 +110,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -123,7 +123,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -136,7 +136,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -154,7 +154,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -167,7 +167,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -180,7 +180,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -193,7 +193,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -211,7 +211,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -224,7 +224,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -237,7 +237,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -250,7 +250,7 @@
 
         <Button
             android:layout_width="0dp"
-            android:layout_height="70dp"
+            android:layout_height="40dp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -270,7 +270,7 @@
         <Button
             android:id="@+id/button3"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="40sp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -282,7 +282,7 @@
         <Button
             android:id="@+id/button"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="40sp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
@@ -294,7 +294,7 @@
         <Button
             android:id="@+id/button2"
             android:layout_width="wrap_content"
-            android:layout_height="match_parent"
+            android:layout_height="40sp"
             android:layout_margin="2px"
             android:layout_marginTop="2px"
             android:layout_marginBottom="2px"
